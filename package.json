@@ -1,0 +1,31 @@
+{
+  "name": "vuepress-plugin-anchor-toc",
+  "version": "0.0.3",
+  "description": "Right-anchor TOC plugin for VuePress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuepress",
+    "right",
+    "anchor",
+    "toc"
+  ],
+  "author": {
+    "name": "ocular-d",
+    "email": "sven@ocular-d.tech",
+    "url": "https://ocular-d.tech"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocular-d/vuepress-plugin-anchor-toc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ocular-d/vuepress-plugin-anchor-toc/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash.debounce": "^4.0.8"
+  }
+}
