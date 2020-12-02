@@ -33,9 +33,9 @@ The only difference between these two is that `vuepress-plugin-anchor-toc` uses 
 ## Install
 
 ```shell
-yarn add vuepress-plugin-anchor-to -D
+yarn add vuepress-plugin-anchor-toc -D
 # or
-npm i vuepress-plugin-anchor-to -D
+npm i vuepress-plugin-anchor-toc -D
 ```
 
 Add to `.vuepress/config.js`
